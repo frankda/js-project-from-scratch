@@ -8,4 +8,11 @@ class Tabs {
     }
     this.options = Object.assign({}, defaultOptions, options)
   }
+
+  bindEvents() {
+    
+  }
+
+  setDefaultTab() {
+  }
 }
